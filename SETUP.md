@@ -9,7 +9,7 @@
 - Powerlevel10k
 - nushell
 - starship
-- åAerospace Beta
+- Aerospace Beta
 
 ### 1. HomeBrew
 - Install HomeBrew
@@ -27,7 +27,11 @@
 - Install Ghostty
 
     `brew install --cask ghostty`
+- Install Nerd Font
 
+    `brew install --cask font-meslo-lg-nerd-font`
+
+- 
 - Configure Ghostty with Powerlevel10k
 
 -------------
