@@ -1,0 +1,5 @@
+# if it is wezterm, enable nu
+if [ "$TERM_PROGRAM" = "WezTerm" ]; then
+	exec nu
+fi
+
